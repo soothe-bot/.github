@@ -25,15 +25,13 @@
 Visit [soothe.is-a.fun](https://soothe.is-a.fun/) to learn more!
 
 ----
-<div style="text-align: center;">
-  <p>Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
-  
+
+<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/LRMN">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+    <img alt="Donation" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
   </a>
-</div>
-
-
+</p>
 
 ###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
 <!-- Heavily inspired by https://github.com/crunchy-lab !-->
