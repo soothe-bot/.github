@@ -14,6 +14,11 @@
 </h3>
 </div>
 
+## Join Server Discord
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+</p>
+
 ![logo](/assets/soothebot.gif)
 
 ## Features
